@@ -1,4 +1,4 @@
-### Hello there, I'm Richik Pal
+# Hello there, I'm Richik Pal
 
 I am student at UC Berkeley as well as an aspiring entrepreneur and full stack developer.
 
