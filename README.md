@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there, I'm Richik Pal
+
+I am student at UC Berkeley as well as an aspiring entrepreneur and full stack developer.
 
 <!--
 **richik-p/richik-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
